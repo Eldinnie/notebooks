@@ -1,3 +1,1 @@
-alabaster==0.7.9
-anaconda-client==1.6.0
-anaconda-navigator==1.4.3
+python-telegram-bot>=5.0
