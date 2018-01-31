@@ -5,4 +5,4 @@ run this notebook on:
 
 Open dag notebook:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eldinnie/master?filepath=Introductie_open_dag.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/eldinnie/notebooks/master?filepath=Introductie_open_dag.ipynb)
